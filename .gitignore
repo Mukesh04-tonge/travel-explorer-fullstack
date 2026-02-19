@@ -1,0 +1,15 @@
+# Node
+node_modules
+npm-debug.log
+
+# Env files
+.env
+
+# React build
+frontend/build
+
+# Logs
+*.log
+
+# OS
+.DS_Store
